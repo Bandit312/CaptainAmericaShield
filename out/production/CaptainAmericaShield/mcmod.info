@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "CaptainAmericaShield",
+    "name": "Captain America's Shield",
+    "version": "${1.0}",
+    "mcversion": "${1.7.10}",
+    "description": "A mod that adds Captain America's Shield and Vibranium from the Marvel Cinematic Universe",
+    "credits": "Thanks to Youtuber Pahimar for the awesome tutorial",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Bandit","AciDFuziion"],
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+  }
+ ]
